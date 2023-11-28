@@ -1,1 +1,2 @@
-import  Pandas
+import  pandas
+import  numpy
